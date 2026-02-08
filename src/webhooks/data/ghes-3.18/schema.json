@@ -11953,15 +11953,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -12905,15 +12896,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -13847,15 +13829,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -24076,15 +24049,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -35118,15 +35082,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -35854,15 +35809,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -64228,15 +64174,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -66644,15 +66581,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -68131,15 +68059,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -69947,15 +69866,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -71542,15 +71452,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -73094,15 +72995,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -74580,15 +74472,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -76328,15 +76211,6 @@
                         {
                           "type": "string",
                           "name": "statuses",
-                          "description": "",
-                          "enum": [
-                            "read",
-                            "write"
-                          ]
-                        },
-                        {
-                          "type": "string",
-                          "name": "team_discussions",
                           "description": "",
                           "enum": [
                             "read",
@@ -78566,15 +78440,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -80107,15 +79972,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -81594,15 +81450,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -83129,15 +82976,6 @@
                         {
                           "type": "string",
                           "name": "statuses",
-                          "description": "",
-                          "enum": [
-                            "read",
-                            "write"
-                          ]
-                        },
-                        {
-                          "type": "string",
-                          "name": "team_discussions",
                           "description": "",
                           "enum": [
                             "read",
@@ -85373,15 +85211,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -87043,15 +86872,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -88580,15 +88400,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -90140,15 +89951,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "team_discussions",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "vulnerability_alerts",
                       "description": "",
                       "enum": [
@@ -91673,15 +91475,6 @@
                     {
                       "type": "string",
                       "name": "statuses",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "team_discussions",
                       "description": "",
                       "enum": [
                         "read",
@@ -209049,7 +208842,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -209100,7 +208893,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -209151,7 +208944,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -209202,7 +208995,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -209253,7 +209046,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -210160,7 +209953,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -210211,7 +210004,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -210262,7 +210055,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -210313,7 +210106,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -210364,7 +210157,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -211271,7 +211064,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -211322,7 +211115,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -211373,7 +211166,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -211424,7 +211217,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -211475,7 +211268,7 @@
                         {
                           "type": "string",
                           "name": "name",
-                          "description": "<p>How this rule will appear to users.</p>"
+                          "description": "<p>How this rule appears when configuring it.</p>"
                         },
                         {
                           "type": "boolean",
@@ -212356,7 +212149,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -212407,7 +212200,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -212458,7 +212251,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -212509,7 +212302,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -212560,7 +212353,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -213253,7 +213046,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -213304,7 +213097,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -213355,7 +213148,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -213406,7 +213199,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -213457,7 +213250,7 @@
                             {
                               "type": "string",
                               "name": "name",
-                              "description": "<p>How this rule will appear to users.</p>"
+                              "description": "<p>How this rule appears when configuring it.</p>"
                             },
                             {
                               "type": "boolean",
@@ -214155,7 +213948,7 @@
                                 {
                                   "type": "string",
                                   "name": "name",
-                                  "description": "<p>How this rule will appear to users.</p>"
+                                  "description": "<p>How this rule appears when configuring it.</p>"
                                 },
                                 {
                                   "type": "boolean",
@@ -214206,7 +213999,7 @@
                                 {
                                   "type": "string",
                                   "name": "name",
-                                  "description": "<p>How this rule will appear to users.</p>"
+                                  "description": "<p>How this rule appears when configuring it.</p>"
                                 },
                                 {
                                   "type": "boolean",
@@ -214257,7 +214050,7 @@
                                 {
                                   "type": "string",
                                   "name": "name",
-                                  "description": "<p>How this rule will appear to users.</p>"
+                                  "description": "<p>How this rule appears when configuring it.</p>"
                                 },
                                 {
                                   "type": "boolean",
@@ -214308,7 +214101,7 @@
                                 {
                                   "type": "string",
                                   "name": "name",
-                                  "description": "<p>How this rule will appear to users.</p>"
+                                  "description": "<p>How this rule appears when configuring it.</p>"
                                 },
                                 {
                                   "type": "boolean",
@@ -214359,7 +214152,7 @@
                                 {
                                   "type": "string",
                                   "name": "name",
-                                  "description": "<p>How this rule will appear to users.</p>"
+                                  "description": "<p>How this rule appears when configuring it.</p>"
                                 },
                                 {
                                   "type": "boolean",
@@ -214960,6 +214753,7 @@
               "description": "",
               "isRequired": true,
               "enum": [
+                "auto_dismissed",
                 "open"
               ]
             }
@@ -215537,6 +215331,7 @@
               "description": "",
               "isRequired": true,
               "enum": [
+                "auto_dismissed",
                 "open"
               ]
             }
